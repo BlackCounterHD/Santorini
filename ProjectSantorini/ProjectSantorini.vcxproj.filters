@@ -18,9 +18,6 @@
     <ClCompile Include="santorini1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="emanuele.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="smekerie.h">

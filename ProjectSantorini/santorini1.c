@@ -253,6 +253,7 @@ int main() {
 	init_buildings(&b);
 	configure_player(p);
 	place_workers(e,p,k,&t,&b);
+	printf("Ana");
 	//take_turns(e, p,k);
 	/*
 	for (i = 0; i <= 1; i++) {
